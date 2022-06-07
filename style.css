@@ -1,0 +1,30 @@
+.header {
+    font-size: 23px;
+    margin-top: 0px;
+    width: 75%;
+    box-shadow: 5px 5px 5px grey;
+    color: black;
+    font-weight: bold;
+}
+
+.span {
+    font-size: 15px;
+    color: black;
+    font-weight: 400;
+}
+
+.footer {
+    color: white;
+    line-height: 3;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    background-color: grey;
+    text-align: center;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px yellow;
+}
